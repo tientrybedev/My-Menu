@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item6"
+        android:title="Setting"/>
+    <item android:id="@+id/item7"
+        android:title="Chat"/>
+    <item android:id="@+id/item8"
+        android:title="Coin"/>
+    <item android:id="@+id/item9"
+        android:title="More Coin?"/>
+</menu>
